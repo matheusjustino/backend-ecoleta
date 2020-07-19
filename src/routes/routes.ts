@@ -1,5 +1,4 @@
 import express from 'express';
-import { celebrate, Joi } from 'celebrate';
 import validateCelebrate from '../config/validationCelebrate';
 
 import multer from 'multer';
